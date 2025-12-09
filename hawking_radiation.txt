@@ -1,0 +1,34 @@
+===== TRIADIC AGENT v7.0 =====
+TOPIC: How a black hole evaporates through Hawking radiation.
+
+EXPLANATION:
+The strong gravitational field near a black hole's event horizon distorts the quantum vacuum. This distortion separates entangled particle-antiparticle pairs from vacuum fluctuations. One particle escapes as a real particle with positive energy, while its counterpart enters the black hole with negative energy relative to infinity. The negative-energy particle reduces the black hole's mass upon absorption. The escaped particle radiates outward, carrying energy away from the black hole. This continuous process decreases the black hole's mass over time.
+
+NEGATIVE — INITIAL STATES:
+  black hole
+  event horizon
+  quantum vacuum
+  particle-antiparticle pairs
+  positive energy
+  negative energy
+  mass
+
+NEUTRAL — INTERACTIONS:
+  1. The event horizon's gravitational gradient spatially separates particle-antiparticle pairs emerging from the quantum vacuum.
+  2. Quantum vacuum fluctuations near the black hole’s mass generate asymmetric particle-antiparticle creation rates due to spacetime curvature.
+  3. Negative energy densities in the quantum vacuum interact with positive energy densities via spacetime warping near the event horizon.
+  4. Tidal forces from the black hole’s mass distort the quantum vacuum, altering the coherence of particle-antiparticle pair lifetimes.
+  5. Spacetime curvature induced by mass compresses the quantum vacuum, increasing local particle-antiparticle pair production frequency.
+  6. The event horizon acts as a causal boundary that polarizes quantum vacuum fluctuations into distinct particle and antiparticle trajectories.
+  7. Gravitational redshift near the event horizon asymmetrically distributes positive and negative energy components of quantum vacuum pairs.
+
+POSITIVE — REALIZED STATES:
+  A region of particle-antiparticle separation is established.
+  An asymmetric particle-antiparticle creation rate is formed.
+  A condition of interacting negative and positive energy densities is maintained.
+  A distortion of the quantum vacuum is present.
+  An increased frequency of particle-antiparticle pair production is established.
+  Distinct particle and antiparticle trajectories are formed.
+  An asymmetric distribution of energy components in quantum vacuum pairs is present.
+
+DIAGNOSTICS:
