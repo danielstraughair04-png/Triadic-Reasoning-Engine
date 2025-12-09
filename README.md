@@ -8,6 +8,7 @@ NEGATIVE — Initial States
 Physical components, particles, fields, energies, and measurable conditions that exist before any interaction occurs.
 NEUTRAL — Mechanisms
 Pure causal interactions between NEG states. No outcomes, no teleology, no future consequences.
+
 POSITIVE — Realized States
 Stable physical conditions that exist after the neutral mechanisms. No actions, no processes, no causal verbs.
 
