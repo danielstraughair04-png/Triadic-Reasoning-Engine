@@ -1,0 +1,36 @@
+===== TRIADIC AGENT v7.0 =====
+TOPIC: How AC becomes DC through rectification.
+
+EXPLANATION:
+Diodes allow current only during forward bias. Negative cycles are blocked or redirected. Resulting output is unidirectional but pulsating. Load resistor receives DC.
+
+NEGATIVE — INITIAL STATES:
+  voltage
+  diodes
+  electrical current
+  electrons
+  load resistor
+  direct current (dc)
+  pulsating output voltage
+
+NEUTRAL — INTERACTIONS:
+  Voltage across a diode regulates current flow.
+  Diodes restrict electron movement to one direction.
+  Current passing through load creates a voltage drop.
+  DC flows through forward-biased diode above threshold.
+  Load resistor dissipates energy from current.
+  Electrons accumulate at junction under reverse bias.
+  Pulsating voltage arises from rectifying AC.
+  Voltage across load varies with current.
+
+POSITIVE — REALIZED STATES:
+  Regulated current flow is established.
+  Unidirectional electron movement is present.
+  Voltage drop across load is formed.
+  Forward voltage bias is established.
+  Energy dissipation is present in load resistor.
+  Electron accumulation at junction is present.
+  Pulsating DC output is established.
+  Variable load voltage is present.
+
+DIAGNOSTICS:
