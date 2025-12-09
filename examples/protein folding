@@ -1,0 +1,39 @@
+===== TRIADIC AGENT v7.0 =====
+TOPIC: How protein folding occurs spontaneously.
+
+EXPLANATION:
+Hydrophobic residues in the unfolded polypeptide chain disrupt water's hydrogen-bonding network. This drives the burial of hydrophobic residues within the chain's interior to increase solvent entropy. Hydrogen bonds form between backbone amide and carbonyl groups, stabilizing secondary structures such as alpha-helices and beta-sheets. Electrostatic interactions and van der Waals packing further compact the chain. Disulfide bonds may link cysteine residues. The chain collapses into a specific three-dimensional conformation that minimizes free energy.
+
+NEGATIVE — INITIAL STATES:
+  hydrophobic residues
+  water
+  hydrogen bonds
+  backbone amide groups
+  carbonyl groups
+  charged residues
+  nonbonded atoms
+  cysteine residues
+  disulfide bonds
+  three-dimensional conformation
+
+NEUTRAL — INTERACTIONS:
+  Hydrophobic residues exclude water molecules.
+  Hydrogen bonds form between backbone amide groups and carbonyl groups.
+  Charged residues form hydrogen bonds with water.
+  Disulfide bonds connect cysteine residues.
+  Nonbonded atoms pack within the three-dimensional conformation.
+  Water forms hydrogen bonds with backbone amide groups.
+  Hydrophobic residues cluster in the three-dimensional conformation.
+  Charged residues interact with water through hydrogen bonds.
+
+POSITIVE — REALIZED STATES:
+  A region of excluded water molecules is present.
+  Hydrogen bonds are established between backbone amide groups and carbonyl groups.
+  Hydrogen bonds are formed between charged residues and water.
+  Disulfide bonds are established between cysteine residues.
+  Nonbonded atoms are packed within the three-dimensional conformation.
+  Hydrogen bonds are formed between water and backbone amide groups.
+  A cluster of hydrophobic residues is present in the three-dimensional conformation.
+  Interactions between charged residues and water through hydrogen bonds are established.
+
+DIAGNOSTICS:
