@@ -1,0 +1,38 @@
+===== TRIADIC AGENT v7.0 =====
+TOPIC: How a neuron sends an electrical signal.
+
+EXPLANATION:
+The neuron maintains a resting membrane potential. Depolarization opens voltage-gated sodium channels. Sodium ions flow inward, triggering further depolarization. Potassium channels open to repolarize the membrane. Pumps restore ion gradients.
+
+NEGATIVE — INITIAL STATES:
+  neuron
+  sodium ions
+  potassium ions
+  electrochemical gradient
+  membrane potential
+  voltage-gated sodium channels
+  voltage-gated potassium channels
+  ion pumps
+  ion leaks
+
+NEUTRAL — INTERACTIONS:
+  Voltage-gated sodium channels open when membrane potential depolarizes.
+  Sodium ions diffuse following their electrochemical gradient.
+  Potassium ions diffuse following their electrochemical gradient.
+  Ion pumps transport sodium outward and potassium inward.
+  Sodium leaks through membrane channels.
+  Potassium leaks through membrane channels.
+  Voltage-gated potassium channels open during depolarization.
+  Electrochemical gradients influence membrane potential via ion leaks.
+
+POSITIVE — REALIZED STATES:
+  A state of depolarization is established.
+  A sodium ion gradient is present.
+  A potassium ion gradient is present.
+  Ion transport is maintained.
+  A sodium leakage condition is present.
+  A potassium leakage condition is present.
+  A state of repolarization is established.
+  Influence of sodium gradients on membrane potential is present.
+
+DIAGNOSTICS:
