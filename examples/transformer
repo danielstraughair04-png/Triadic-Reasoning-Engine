@@ -1,0 +1,37 @@
+===== TRIADIC AGENT v7.0 =====
+TOPIC: How a power transformer works.
+
+EXPLANATION:
+AC in the primary winding creates a changing magnetic flux in the core. This flux links to the secondary winding and induces EMF. Load current flows when connected.
+
+NEGATIVE — INITIAL STATES:
+  alternating current
+  primary winding
+  ferromagnetic core
+  magnetic flux
+  secondary winding
+  electromotive force
+  voltage
+  load
+
+NEUTRAL — INTERACTIONS:
+  Alternating current generates changing flux.
+  Flux links primary and secondary windings.
+  Linked flux induces electromotive force.
+  Induced EMF generates voltage across secondary terminals.
+  Voltage drives current through load.
+  AC variations alter flux intensity.
+  Core concentrates flux between windings.
+  EMF corresponds to flux rate of change.
+
+POSITIVE — REALIZED STATES:
+  Changing magnetic flux is established.
+  Magnetic flux linkage is present.
+  Electromotive force is induced.
+  Voltage is present across secondary terminals.
+  Current is present when connected to a load.
+  Altered magnetic flux intensity is present.
+  Concentrated flux is established.
+  EMF proportionality to flux change is present.
+
+DIAGNOSTICS:
